@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🌱 I’m currently learning **Node JS and Databases**
+- 🌱 I’m currently learning **Postgres and Prisma**
 
 - 👯 Looking forward to collaborate on **Web projects**
 
